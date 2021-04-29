@@ -1,2 +1,4 @@
 config:
   info: 'master branch ,springcloud/config-dev.yml version=11'
+server:
+  port: 9090
