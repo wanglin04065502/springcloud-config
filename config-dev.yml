@@ -3,4 +3,4 @@ config:
 server:
   port: 9090
 
-message: 'Hello World4'
+message: 'Hello World5'
